@@ -47,8 +47,8 @@ This project is built using a Flutter and no more packages used for this project
 ## How to Run
 To experience this Instagram UI clone:
 1. I have add the apk file include the repository.
-2. Follow the downloard the repository then try in on your emulators.
-4. Run the app on your Android/iOS emulator or physical device.
+2. Downloard the repository then try in on your emulators or your Physical devices.
+4. After installing the password needs to enter the app, I had added the password file include the repository you can check it that.
 5. Explore and interact with the Instagram-like interface.
 
 ## Contributing
