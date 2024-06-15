@@ -2,6 +2,9 @@
 
 A full-fledged Instagram User Interface (UI) clone that faithfully reproduces all the core features available in the official Instagram mobile application. Ideal for UI/UX enthusiasts and developers seeking to build visually stunning and fully functional apps, this project serves as an extensive resource for delving into the world of social media app design.
 
+User name = 'pullingal@gmail.com';
+Password = 'Pullingal@123';
+
 ## Features
 
 1. **Home Page**
